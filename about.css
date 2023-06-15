@@ -1,0 +1,84 @@
+.about{
+    background: rgb(239, 230, 230);
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+h1{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.viamagus-heading2 {
+color: red;
+font-size: 25px;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.lead{
+    text-align: justify;
+    color: black;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+    text-align: justify;
+    font-weight: 300;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+.container{
+    background:  rgb(239, 230, 230);
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.center{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h2{
+    font-size: 20px;
+}
+
+.vol1{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+.vol2{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+.volcontent1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.volcontent2{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.footer.container{
+    background-color: green;
+}
+
+.containers{
+    background: green;
+}
+
+

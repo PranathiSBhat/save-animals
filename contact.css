@@ -1,0 +1,72 @@
+.home{
+    margin-top: 35px;
+    background-image: url(./image/15.png);
+    min-height: 75vh;
+    opacity: 0.9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: blur(0.1px);
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+.home h1{
+    font-weight: 500;
+    font-size: 30px;
+    color: whitesmoke;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.contact2{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 15px;
+    
+}
+
+.contact2 h2{
+    color: navy;
+    font-weight: 600;
+}
+
+* {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    transition: all 0.5s cubic-bezier(.37, 1.14, .26, 1.24);
+    scroll-behavior: smooth;
+}
+
+.form{
+    width: 10px;
+    height: 10px;
+    padding: 2px;
+    border: 1px ;
+    
+}
+
+input[type=text] {
+    border: 2px solid black;
+    border-radius: 4px;
+  }
+  input[type=email] {
+    border: 2px solid black;
+    border-radius: 4px;
+  }
+  textarea[type=text] {
+    border: 2px solid black;
+    border-radius: 4px;
+    width: 185px;
+  }
+  
+
+

@@ -1,0 +1,88 @@
+.home{
+    min-height: 100vh;
+    display:flex;
+    align-items: center;
+    background-image: url(./image/7.png);
+    background-size: cover;
+    background-position: top;
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    color: aliceblue;
+
+   
+}
+
+
+h1{
+    color: #000;
+    text-align: center;
+}
+    
+
+.home.content{
+    max-width: 25px;
+    text-align: center;
+   
+}
+
+.title{
+    text-align: center;
+    font-size: 30px;
+}
+
+.home.content h3{
+    color: var(--white);
+    font-size: 100px;
+    line-height: 1.4;
+    font-weight: 400;
+}
+
+.found{
+    margin-top: 5px;
+    min-height: 100vh;
+    display:flex;
+    align-items: center;
+    background: rgb(239, 230, 230);
+    background-size: cover;
+    background-position: top;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+.about-founder{
+ color: blue;
+ text-align: left;    
+ font-size: 50px;
+ margin-left: 35px;
+}
+
+.founder-content{
+    text-align: left;
+    margin-left: 280px;
+    margin-top: 1px;
+}
+
+table{
+    position: relative;
+    left:5px;
+    margin-left:20px;
+   
+
+}
+.founder-content{
+ text-align:justify;   
+}
+.carousel-inner::after{
+   content:"";
+   clear:both;
+   display:table;
+
+}
+.item{
+float:left;
+width:30%;
+padding:5px;
+}
+
